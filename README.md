@@ -1,2 +1,2 @@
 # First-Spring-Boot
-Simple project using SpringBoot componentes
+Simple project using SpringBoot components
