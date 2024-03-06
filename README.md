@@ -1,2 +1,2 @@
-# Spring-Boot-Scopes
- First project using SpringBoot beans and scopes
+# First-Spring-Boot
+Simple project using SpringBoot componentes
